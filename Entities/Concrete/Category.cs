@@ -10,10 +10,6 @@ namespace Entities.Concrete
 	{
 		public int CategoryId { get; set; }
 		public short CategoryName { get; set; }
-
-		//Console.Write
 	}
-
-	
 }
 
