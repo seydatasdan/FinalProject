@@ -6,9 +6,14 @@ using System.Text;
 namespace Entities.Concrete
 {
 	// Çıplak class kalmasın 
-	public class Category:IEntity
+	public class Category : IEntity
 	{
 		public int CategoryId { get; set; }
 		public short CategoryName { get; set; }
+
+		//Console.Write
 	}
+
+	
 }
+
